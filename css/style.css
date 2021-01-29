@@ -97,6 +97,7 @@ body {
   top: 50%;
   width: 100%;
   transform: translateY(-50%);
+  z-index: 9;
 }
 
 .slider-button {
@@ -221,7 +222,7 @@ body {
   font-family: 'Roboto Slab', serif;
 }
 
-. .goods-description {
+.goods-description {
   color: #4B5157;
   font-size: 14px;
   line-height: 20px;
