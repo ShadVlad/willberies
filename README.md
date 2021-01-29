@@ -1,9 +1,9 @@
-#Willberies - Учебный проект Glo Academy
+# Willberies - Учебный проект Glo Academy
 Выполнил проект Владимир Шадрин
-##Использлваны языки
+## Использлваны языки
 - HTML
 - CSS
 - JavaScript
-###Библиотеки
+### Библиотеки
 - Bootstrap v5
 - Swiper Slider JS
